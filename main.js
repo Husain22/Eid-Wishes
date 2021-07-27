@@ -34,7 +34,7 @@ const randomEidMessages = eid => {
         console.log(eid[wish][Math.floor(Math.random() * 8)]);
         console.log('\n');
     }
-}
+};
 
 randomEidMessages(eidWishes);
  
